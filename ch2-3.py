@@ -1,0 +1,12 @@
+#불 자료형 (참 or 거짓)
+print(5 >10)
+print(5 <10)
+
+print(True)
+print(False)
+
+print( not True)
+print( not False)
+
+not( 5 > 10)
+print(not (5 > 10 ))
